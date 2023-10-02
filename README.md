@@ -9,7 +9,7 @@
 **CodeLabz** is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users. The platform will be developed using ReactJS frontend library and the backend will be developed using the Google Cloud Firestore and Google Firebase Real-Time database.
 
 # Deployment 
-You can see the app live at [https://dev.codelabz.io/](https://dev.codelabz.io/)
+You can see the app live at [https://dev.codelabz.io](https://dev.codelabz.io)
 
 # Community
 Join and communicate with other members on our community. We communicate on gitter.
